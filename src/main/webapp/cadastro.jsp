@@ -1,4 +1,4 @@
-<%@page import="Db.User"%>
+<%@page import="db.User"%>
 <%@ page pageEncoding="UTF-8" %>
 <%@page import="DbListener"%>
                 <!--FORMULÁRIO PARA CADASTRO -->
