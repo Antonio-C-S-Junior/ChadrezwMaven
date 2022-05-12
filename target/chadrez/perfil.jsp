@@ -4,7 +4,7 @@
     Author     : yBlackSpider
 --%>
 
-<%@page import="User"%>
+<%@page import="db.User"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <%
